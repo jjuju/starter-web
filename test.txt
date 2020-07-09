@@ -1,8 +1,5 @@
-working directory staging
- area ..
+test one
 
-test ......
+test two!
 
-
-working directory -staged file
-
+test three
