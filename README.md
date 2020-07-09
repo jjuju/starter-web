@@ -14,3 +14,4 @@ Sample website with plenty of files for demos
 "I dunno what this is   "
 
 ## How To Contribute
+get in touch to find out more.
