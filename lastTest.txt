@@ -1,0 +1,7 @@
+-create unstated 	
+
+
+---create staged 
+
+
+--modified after staging it 
