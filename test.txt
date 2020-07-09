@@ -2,3 +2,7 @@ working directory staging
  area ..
 
 test ......
+
+
+working directory -staged file
+
